@@ -11,7 +11,7 @@ Usage :
 
 Clone the ipv6-extracter.py to your local machine.
 
-$git clone https://git.ifl.net/jmathew/ipv6-extracter.git
+$git clone https://github.com/jamesakm/ipv6-tracker.git
 
 
 Script execution  :
